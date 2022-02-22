@@ -1,4 +1,5 @@
-## Este es una practica de node.js
+## Practica de node.js
+### Esta es una pequeña aplicacion de Node donde mediante la consola para generar un archivo .txt con la tabla de multplicar que deseamos crea.
 
 ### NOTAS:
 
@@ -12,3 +13,5 @@ Options:
   -H, --hasta    Indicamos hasta que numero vamos hacer uso
                                                           [number] [default: 10]
 ```
+# SS
+![Captura de pantalla (1)](https://user-images.githubusercontent.com/85538493/155230945-9682babb-1d09-439f-97b0-011728429dc3.png)
